@@ -1,6 +1,10 @@
 Comecei A Pouco tempo na Plataforma da DIO, não fiz muitos Cursos na plataforma, mas comecei a fazer um Bootcamp na Plataforma e vou colocar os Módulos que eu estou aprendendo até ao finalizar do Bootcamp:TQI Fullstack Developer.
     
-                               Introdução à Programação e Pensamento Computacional:
+
+                                   Módulo I:Conteúdo de Abertura:
+
+                       
+                        Introdução à Programação e Pensamento Computacional:
 
 - Pensamento Computacional;
 
