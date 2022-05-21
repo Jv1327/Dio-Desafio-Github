@@ -12,7 +12,7 @@ Comecei A Pouco tempo na Plataforma da DIO, não fiz muitos Cursos na plataforma
 
 - Primeiro Contato com a Programação;
 
-                                      Introdução ao Git e ao Hithub:
+                                      Introdução ao Git e ao Github:
  
 - Introdução ao Git;
 
@@ -26,4 +26,4 @@ Comecei A Pouco tempo na Plataforma da DIO, não fiz muitos Cursos na plataforma
 
 - Introdução ao Github;
 
-- Resolvendo Conflitos 
+- Resolvendo Conflitos.
