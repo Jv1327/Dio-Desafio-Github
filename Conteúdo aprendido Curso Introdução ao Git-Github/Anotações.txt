@@ -1,4 +1,29 @@
+Comecei A Pouco tempo na Plataforma da DIO, não fiz muitos Cursos na plataforma, mas comecei a fazer um Bootcamp na Plataforma e vou colocar os Módulos que eu estou aprendendo até ao finalizar do Bootcamp:TQI Fullstack Developer.
+    
+                               Introdução à Programação e Pensamento Computacional:
 
-- Instalação do Git
+- Pensamento Computacional;
 
-- Conceitos Básicos sobre o Git
+- Introdução a Lógica de Programação;
+
+- Fundamentos de Algoritmos;
+
+- Linguagens de Programação;
+
+- Primeiro Contato com a Programação;
+
+                                      Introdução ao Git e ao Hithub:
+ 
+- Introdução ao Git;
+
+- Navegação via Command line Interface e instalação;
+
+- Entendendo como o Git Funciona por Baixo dos Panos;
+
+- Primeiros Comandos com Git;
+
+- Ciclo de Vida dos Arquivos no Git;
+
+- Introdução ao Github;
+
+- Resolvendo Conflitos 
